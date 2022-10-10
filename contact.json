@@ -1,0 +1,90 @@
+
+{
+  "payment" : [
+    {
+      "title" : "Mobile Recharge",
+      "img" : "https://cdn-icons-png.flaticon.com/128/0/191.png"
+    },
+    {
+      "title" : "Broadband Bill",
+      "img" : "https://cdn-icons-png.flaticon.com/128/3624/3624361.png"
+    },
+    {
+      "title" : "DTH Recharge",
+      "img" : "https://t4.ftcdn.net/jpg/02/33/50/23/240_F_233502350_TIjPBGrDWshaSmaKt0NyfvRwUWos6lfP.jpg"
+    },
+    {
+      "title" : "Electricity Bill",
+      "img" : "https://cdn-icons-png.flaticon.com/128/900/900553.png"
+    },
+    {
+      "title" : "Gas Bill",
+      "img" : "https://cdn-icons-png.flaticon.com/128/1406/1406652.png"
+    },
+    {
+      "title" : "Water Bill",
+      "img" : "https://cdn-icons-png.flaticon.com/128/606/606797.png"
+    },
+    {
+      "title" : "Credit Card Billing",
+      "img" : "https://cdn-icons-png.flaticon.com/128/4021/4021708.png"
+    },
+    {
+      "title" : "Other Payments",
+      "img" : "https://cdn-icons-png.flaticon.com/128/8265/8265288.png"
+    }
+  ],
+  "recenet_contect" : [
+    {
+      "title" : "Akshay Kumar",
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRSao-ZpNzbDW2IiJTTXWzBsrmrF5aYPUi_g&usqp=CAU"
+    },
+    {
+      "title" : "Sonu Sood",
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWoJONpUcVfVNuOPKf3WDs6rtDcm-AhW1TwA&usqp=CAU"
+    },
+    {
+      "title" : "MS Dhoni",
+      "img" : "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170677/ms-dhoni.jpg"
+    },
+    {
+      "title" : "Rajkummar Rao",
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3phvALBRFZTTeaY3RuSRGh-xrWWIq-hxyA&usqp=CAU"
+    },
+    {
+      "title" : "Govinda",
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3egUuChuYdSMmL-ch729PoBN8rJ08bL2nhQ&usqp=CAU"
+    },
+    {
+      "title" : "Allu Arjun",
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbvm51M39s0UxCdjaRIQF9FCaWCspyrl-nBw&usqp=CAU"
+    },
+    {
+      "title" : "Prabhas",
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH0EeysqvqW8lSQnB6qVdOdoOMcLmP3-65oA&usqp=CAU"
+    },
+    {
+      "title" : "Rohit Sharma",
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhRr5kBF4FycDEUJN0U0bOjF7PnfiKZN2Edg&usqp=CAU"
+    }
+  ],
+  "menu_items" : [
+    {
+      "title" : "QR SCAN",
+      "img" : "https://cdn-icons-png.flaticon.com/128/1235/1235443.png"
+    },
+    {
+      "title" : "Send",
+      "img" : "https://cdn-icons-png.flaticon.com/128/1627/1627556.png"
+    },
+    {
+      "title" : "Receive",
+      "img" : "https://cdn-icons-png.flaticon.com/128/1627/1627557.png"
+    },
+    {
+      "title" : "Convert",
+      "img" : "https://t3.ftcdn.net/jpg/03/63/83/14/240_F_363831489_H2Dt9OzDydjB3rUJpXruItmsTsvvvjb2.jpg"
+    }
+  ]
+
+}
