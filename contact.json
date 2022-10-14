@@ -99,5 +99,28 @@
       "img" : "https://cdn-icons-png.flaticon.com/512/6204/6204528.png",
       "color":"0xFFFFFFFF"
     }
+  ],
+  
+{ 
+  "coin_list" : [
+    {
+      "title" : "Bit Coin",
+      "img" : "https://cdn-icons-png.flaticon.com/512/5968/5968260.png",
+      "description":"BTC",
+      "rs":"11,20,007"
+    },
+    {
+      "title" : "Ethereum",
+      "img" : "https://cdn-icons-png.flaticon.com/512/6001/6001368.png",
+      "description":"ETH",
+      "rs":"10,11,000"
+    },
+    {
+      "title" : "Binance Coin",
+      "img" : "https://cdn-icons-png.flaticon.com/512/6001/6001283.png",
+      "description":"BNB",
+      "rs":"16,50,500"
+    }
   ]
+}
 }
