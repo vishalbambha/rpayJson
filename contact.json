@@ -100,5 +100,25 @@
       "color":"0xFFFFFFFF"
     }
   ]
+  "coin_list" : [
+    {
+      "title" : "Bit Coin",
+      "description" : "BTC",
+      "img" : "https://cdn-icons-png.flaticon.com/512/5968/5968260.png",
+      "rs":"₹ 11,50,007"
+    },
+    {
+      "title" : "Ethereum",
+      "description" : "ETH",
+      "img" : "https://cdn-icons-png.flaticon.com/512/6001/6001368.png",
+      "rs":"₹ 11,50,007"
+    },
+    {
+      "title" : "Binance Coin",
+      "description" : "BNB",
+      "img" : "https://cdn-icons-png.flaticon.com/512/6001/6001283.png",
+      "rs":"₹ 11,50,007"
+    }
+  ]
 
 }
