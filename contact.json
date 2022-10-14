@@ -119,5 +119,23 @@
       "description":"BNB",
       "rs":"16,50,500"
     }
+  ],
+  "profile" : [
+    {
+      "title" : "Transaction History",
+      "img" : "https://cdn-icons-png.flaticon.com/512/565/565526.png"
+    },
+    {
+      "title" : "Reward",
+      "img" : "https://cdn-icons-png.flaticon.com/512/4737/4737610.png"
+    },
+    {
+      "title" : "Refer & Earn",
+      "img" : "https://cdn-icons-png.flaticon.com/512/1357/1357050.png"
+    },
+    {
+      "title" : "Setting",
+      "img" : "https://cdn-icons-png.flaticon.com/512/2040/2040504.png"
+    }
   ]
 }
