@@ -4,44 +4,44 @@
     {
       "title" : "Mobile Rec...",
       "img" : "https://cdn-icons-png.flaticon.com/512/3405/3405321.png",
-      "color":"0xFFFFFFFF"
+      "color":"0xFF12A684"
     },
     {
       "title" : "Broadband Bill",
       "img" : "https://cdn-icons-png.flaticon.com/512/3927/3927670.png",
-     "color":"0xFFFFFFFF"
+    "color":"0xFF12A684"
     },
     {
       "title" : "DTH Recharge",
       "img" : "https://cdn-icons-png.flaticon.com/512/7591/7591663.png",
-      "color":"0xFFFFFFFF"
+      "color":"0xFF12A684"
       
     },
     {
       "title" : "Electricity Bill",
       "img" : "https://cdn-icons-png.flaticon.com/128/900/900553.png",
-      "color":"0xFFFFFFFF"
+      "color":"0xFF12A684"
     },
     {
       "title" : "Gas Bill",
       "img" : "https://cdn-icons-png.flaticon.com/128/1406/1406652.png",
-      "color":"0xFFFFFFFF"
+     "color":"0xFF12A684"
     },
     {
       "title" : "Water Bill",
       "img" : "https://cdn-icons-png.flaticon.com/512/3119/3119434.png",
-      "color":"0xFFFFFFFF"
+      "color":"0xFF12A684"
     },
     {
       "title" : "Credit Card Bill",
       "img" : "https://cdn-icons-png.flaticon.com/512/3786/3786278.png",
-      "color":"0xFFFFFFFF"
+     "color":"0xFF12A684"
 
     },
     {
       "title" : "Other Payments",
       "img" : "https://cdn-icons-png.flaticon.com/512/2319/2319174.png",
-      "color":"0xFFFFFFFF"
+      "color":"0xFF12A684"
     }
   ],
   "recenet_contect" : [
@@ -82,22 +82,22 @@
     {
       "title" : "QR SCAN",
       "img" : "https://cdn-icons-png.flaticon.com/512/7202/7202958.png",
-      "color":"0xFF12A684"
+      "color":"0xFFFFFFFF"
     },
     {
       "title" : "Send",
       "img" : "https://cdn-icons-png.flaticon.com/512/2767/2767220.png",
-      "color":"0xFF12A684"
+      "color":"0xFFFFFFFF"
     },
     {
       "title" : "Receive",
       "img" : "https://cdn-icons-png.flaticon.com/128/5689/5689506.png",
-      "color":"0xFF12A684"
+      "color":"0xFFFFFFFF"
     },
     {
       "title" : "Convert",
       "img" : "https://cdn-icons-png.flaticon.com/512/6204/6204528.png",
-      "color":"0xFF12A684"
+      "color":"0xFFFFFFFF"
     }
   ]
 
