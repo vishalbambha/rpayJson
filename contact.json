@@ -123,11 +123,11 @@
   "wallet" : [
     {
       "title" : "Buy",
-      "img" : "https://cdn-icons-png.flaticon.com/512/1828/1828921.png"
+      "img" : "https://cdn-icons-png.flaticon.com/512/3018/3018447.png"
     },
     {
       "title" : "Sell",
-      "img" : "https://cdn-icons-png.flaticon.com/512/1828/1828901.png"
+      "img" : "https://cdn-icons-png.flaticon.com/512/2732/2732689.png"
     },
     {
       "title" : "Convert",
