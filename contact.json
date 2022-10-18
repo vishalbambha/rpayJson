@@ -120,22 +120,18 @@
       "rs":"16,50,500"
     }
   ],
-  "profile" : [
+  "wallet" : [
     {
-      "title" : "Transaction History",
-      "img" : "https://cdn-icons-png.flaticon.com/512/565/565526.png"
+      "title" : "Buy",
+      "img" : "https://cdn-icons-png.flaticon.com/512/1828/1828921.png"
     },
     {
-      "title" : "Reward",
-      "img" : "https://cdn-icons-png.flaticon.com/512/4737/4737610.png"
+      "title" : "Sell",
+      "img" : "https://cdn-icons-png.flaticon.com/512/1828/1828901.png"
     },
     {
-      "title" : "Refer & Earn",
-      "img" : "https://cdn-icons-png.flaticon.com/512/1357/1357050.png"
-    },
-    {
-      "title" : "Setting",
-      "img" : "https://cdn-icons-png.flaticon.com/512/2040/2040504.png"
+      "title" : "Convert",
+      "img" : "https://cdn-icons-png.flaticon.com/512/6204/6204528.png"
     }
   ]
 }
