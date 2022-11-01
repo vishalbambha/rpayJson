@@ -105,19 +105,22 @@
       "title" : "Bit Coin",
       "img" : "https://cdn-icons-png.flaticon.com/512/5968/5968260.png",
       "description":"BTC",
-      "rs":"11,20,007"
+      "rs":"11,20,007",
+      "rate":"3.5%"
     },
     {
       "title" : "Ethereum",
       "img" : "https://cdn-icons-png.flaticon.com/512/6001/6001368.png",
       "description":"ETH",
-      "rs":"10,11,000"
+      "rs":"10,11,000",
+       "rate":"1.6%"
     },
     {
       "title" : "Binance Coin",
       "img" : "https://cdn-icons-png.flaticon.com/512/6001/6001283.png",
       "description":"BNB",
-      "rs":"16,50,500"
+      "rs":"16,50,500",
+       "rate":"2.3%"
     }
   ],
   "wallet" : [
